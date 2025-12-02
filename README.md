@@ -64,11 +64,11 @@ python database_setup.py
 
 This script:
 
-Creates the support.db file,
+- Creates the support.db file,
 
-Initializes the customers and tickets tables,
+- Initializes the customers and tickets tables,
 
-Inserts some sample data for testing the MCP tools and A2A flows.
+- Inserts some sample data for testing the MCP tools and A2A flows.
 
 ---
 
